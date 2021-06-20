@@ -7,6 +7,12 @@ NifSkope is a tool for opening and editing the NetImmerse file format (NIF). NIF
 You can download the latest official release from [GitHub](https://github.com/niftools/nifskope/releases). More frequent development builds are posted in the [NifTools Discord](https://discord.gg/ZFjdN4x), pinned to #software.
 
 
+### What's new for Dragonica
+
+Thanks to PhysxConverter included :
+![New features useful to Dragonica](https://i.imgur.com/ExGt5Bk.png "Nifskope DGN EU")
+
+
 ### Discussion & Help
 
 - Visit the [NifTools Discord](https://discord.gg/ZFjdN4x). To receive support use the #software channel.
