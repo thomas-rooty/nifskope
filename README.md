@@ -9,7 +9,8 @@ You can download the latest official release from [GitHub](https://github.com/ni
 
 ### What's new for Dragonica
 
-Thanks to PhysxConverter included :
+Thanks to PhysxConverter included 
+
 ![New features useful to Dragonica](https://i.imgur.com/ExGt5Bk.png "Nifskope DGN EU")
 
 
